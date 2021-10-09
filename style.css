@@ -1,0 +1,23 @@
+div#first {
+    margin-left: 143px;
+    background-color: yellow;
+}
+
+div#second {
+    margin-left: 95px;
+    border: blue 3px solid;
+    background-color: lightgray;
+}
+
+div#third {
+    margin-left: 95px;
+    background-color: lightgray;
+}
+
+div#cursiva {
+    font-style: italic;
+}
+
+div#alinderecha {
+    margin-left: 320px;
+}
